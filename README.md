@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Andrei-Stefan20.Andrei-Stefan20&left_text=Count%20Visitors:%20"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Andrei-Stefan20.Andrei-Stefan20&left_text=Count%20Visitors%20"  />
 
 ###
 
