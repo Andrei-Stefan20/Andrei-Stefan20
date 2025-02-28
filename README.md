@@ -1,27 +1,12 @@
 <h2 align="left">Hi 👋! I'm Andrei, always happy to learn and create!</h2>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="stefan.andrei.alexandru2001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/andre-alexandru-stefan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="26" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Andrei-Stefan20.Andrei-Stefan20&left_text=Count%20Visitors:%20"  />
 
 ###
 
-<p align="left">🎓 Graduated in Computer Science from the University of Bari Aldo Moro, with a solid blend of theoretical knowledge and hands-on experience in programming and software development technologies.<br><br>👨‍💻 Driven by a genuine passion for technology, I thrive on tackling complex problems and sharing insights in computer science, innovation, and tech-driven progress.<br><br>💻 During my academic journey, I’ve had the privilege of working on a variety of cutting-edge projects, where I honed my expertise in programming languages, artificial intelligence, and computer networks. Each project has shaped my approach to solving real-world challenges.<br><br>🔍 Constantly seeking new challenges, I am eager to expand my skills and deepen my understanding, believing that technology holds the power to create meaningful change in the world.<br><br>🤝 Collaboration is key, and I’ve thrived in multidisciplinary teams, driving results and bringing fresh ideas to the table. I’m always open to new opportunities, confident that my unique blend of academic background and technical know-how can bring value to any organization or team.</p>
+<p align="left">🎓 Graduated in Computer Science from the University of Bari Aldo Moro, with a solid blend of theoretical knowledge and hands-on experience in programming and software development technologies. Currently a master's student in AI.<br><br>👨‍💻 Driven by a genuine passion for technology, I thrive on tackling complex problems and sharing insights in computer science, innovation, and tech-driven progress.<br><br>💻 During my academic journey, I’ve had the privilege of working on a variety of cutting-edge projects, where I honed my expertise in programming languages, artificial intelligence, and computer networks. Each project has shaped my approach to solving real-world challenges.<br><br>🔍 Constantly seeking new challenges, I am eager to expand my skills and deepen my understanding, believing that technology holds the power to create meaningful change in the world.<br><br>🤝 Collaboration is key, and I’ve thrived in multidisciplinary teams, driving results and bringing fresh ideas to the table. I’m always open to new opportunities, confident that my unique blend of academic background and technical know-how can bring value to any organization or team.</p>
 
 ###
 
