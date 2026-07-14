@@ -1,59 +1,60 @@
-<h2 align="left">Hi 👋! I'm Andrei, always happy to learn and create!</h2>
-
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Andrei-Stefan20.Andrei-Stefan20&left_text=Count%20Visitors%20"  />
-
-###
-
-<p align="left">🎓 Graduated in Computer Science from the University of Bari Aldo Moro, with a solid blend of theoretical knowledge and hands-on experience in programming and software development technologies. Currently a master's student in AI.<br><br>👨‍💻 Driven by a genuine passion for technology, I thrive on tackling complex problems and sharing insights in computer science, innovation, and tech-driven progress.<br><br>💻 During my academic journey, I’ve had the privilege of working on a variety of cutting-edge projects, where I honed my expertise in programming languages, artificial intelligence, and computer networks. Each project has shaped my approach to solving real-world challenges.<br><br>🔍 Constantly seeking new challenges, I am eager to expand my skills and deepen my understanding, believing that technology holds the power to create meaningful change in the world.<br><br>🤝 Collaboration is key, and I’ve thrived in multidisciplinary teams, driving results and bringing fresh ideas to the table. I’m always open to new opportunities, confident that my unique blend of academic background and technical know-how can bring value to any organization or team.</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Andrei-Stefan20/Andrei-Stefan20/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Andrei-Stefan20&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+# Andrei Alexandru Stefan
+
+**Full-Stack Developer · MSc Student in Artificial Intelligence at the University of Bari**
+
+I build software and study artificial intelligence, with a focus on practical systems that are clear, reliable, and useful.
+
+[Portfolio](https://andrei-stefan20.github.io/) · [LinkedIn](https://www.linkedin.com/in/andre-alexandru-stefan) · [Developer Portfolio Template](https://github.com/Andrei-Stefan20/developer-portfolio-template)
+
 </div>
 
-###
+## About me
+
+I work across software engineering, machine learning, large language models, knowledge graphs, and computer vision. I enjoy moving from the initial problem to a working implementation, combining research ideas with maintainable software.
+
+My projects include backend services, web applications, data pipelines, retrieval systems, and AI-powered features. I value simple interfaces, measurable results, and technical decisions that are easy to understand and maintain.
+
+## Selected projects
+
+### [SLIDERS](https://github.com/Andrei-Stefan20/SLIDERS)
+Interpretable image retrieval with DINOv2, sparse autoencoders, FAISS, and query-time feature steering.
+
+### [Text-to-SPARQL with LLMs](https://github.com/Andrei-Stefan20/text-to-sparql-llm)
+An experimental pipeline for generating SPARQL queries over Wikidata using entity linking, prompting strategies, schema information, and agentic methods.
+
+### [Developer Portfolio Template](https://github.com/Andrei-Stefan20/developer-portfolio-template)
+A multilingual Jekyll portfolio template for developers, researchers, and students, with technical writing, Pagefind search, dark mode, and GitHub Pages deployment.
+
+### [Personal Portfolio](https://github.com/Andrei-Stefan20/Andrei-Stefan20.github.io)
+My portfolio and technical writing space, built with Jekyll, Liquid, Markdown, and GitHub Pages.
+
+## Current interests
+
+- Reliable and interpretable AI systems
+- Large language models and knowledge graphs
+- Machine learning and computer vision
+- Information retrieval and semantic search
+- Maintainable full-stack software
+
+## Technologies
+
+**Languages:** Python, JavaScript, TypeScript, Java, C, C++, SQL  
+**AI and data:** PyTorch, TensorFlow, FAISS, scikit-learn, OpenCV  
+**Web and backend:** HTML, CSS, Node.js, REST APIs, MySQL, Redis  
+**Tools:** Git, Docker, GitHub Actions, Jekyll, Linux
+
+## Writing
+
+I write about artificial intelligence, software engineering, research experiments, and the practical difficulties of integrating AI into real systems.
+
+Read my articles on my [portfolio](https://andrei-stefan20.github.io/writing/).
+
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
 
-###
+Open to collaborations around software engineering, AI research, and open-source projects.
+
+</div>
